@@ -1,9 +1,9 @@
 # Petful Server
 Live: https://petful-project.now.sh/
 
-Client Repo: https://github.com/hsinlinghu1101/Petful-Hsin-client.git
+Client Repo: https://github.com/gage117/petful-client_gage-hsin-cesar
 
-API Repo: https://github.com/hsinlinghu1101/Petful-Hsin-server.git
+API Repo: https://github.com/gage117/petful-server_gage-hsin-cesar
 
 Heroku Link: https://obscure-sierra-79316.herokuapp.com/
 
@@ -37,4 +37,4 @@ Technology Used
     
 Authors
 
-Hsin Ling Hu
+Hsin Ling Hu, Gage Eide, Cesar Hernandez
